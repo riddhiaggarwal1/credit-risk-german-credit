@@ -1,0 +1,45 @@
+feature,value,loans,default_rate_pct
+checking_account,0 to 200 DM,269,39.0
+checking_account,200 DM or more,63,22.2
+checking_account,below 0 DM,274,49.3
+checking_account,no checking account,394,11.7
+credit_history,all paid back at this bank,49,57.1
+credit_history,critical / credits elsewhere,293,17.1
+credit_history,delays in the past,88,31.8
+credit_history,existing credits paid so far,530,31.9
+credit_history,no credits / all paid back,40,62.5
+savings,100 to 500 DM,103,33.0
+savings,1000 DM or more,48,12.5
+savings,500 to 1000 DM,63,17.5
+savings,below 100 DM,603,36.0
+savings,unknown / none,183,17.5
+duration_band,up to 12,359,21.2
+duration_band,13 to 24,411,29.7
+duration_band,25 to 36,143,39.9
+duration_band,over 36,87,51.7
+amount_band,lowest quarter,250,30.8
+amount_band,second quarter,250,24.8
+amount_band,third quarter,250,22.4
+amount_band,highest quarter,250,42.0
+purpose,business,97,35.1
+purpose,domestic appliances,12,33.3
+purpose,education,50,44.0
+purpose,furniture,181,32.0
+purpose,new car,234,38.0
+purpose,other,12,41.7
+purpose,radio / TV,280,22.1
+purpose,repairs,22,36.4
+purpose,retraining,9,11.1
+purpose,used car,103,16.5
+employment_since,1 to 4 years,339,30.7
+employment_since,4 to 7 years,174,22.4
+employment_since,7 years or more,253,25.3
+employment_since,under 1 year,172,40.7
+employment_since,unemployed,62,37.1
+housing,for free,108,40.7
+housing,own,713,26.1
+housing,rent,179,39.1
+age_band,under 25,149,40.9
+age_band,25 to 34,399,32.8
+age_band,35 to 49,327,22.6
+age_band,50 and over,125,27.2

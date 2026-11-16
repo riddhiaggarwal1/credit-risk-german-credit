@@ -1,0 +1,45 @@
+feature,coefficient,odds_ratio
+checking account below 0 DM,1.428,4.17
+checking account 0 to 200 DM,1.19,3.29
+purpose education,1.098,3.0
+other installment plans bank,0.744,2.1
+checking account 200 DM or more,0.711,2.04
+property unknown / none,0.674,1.96
+housing rent,0.612,1.84
+employment since unemployed,0.599,1.82
+purpose new car,0.418,1.52
+duration months,0.369,1.45
+employment since under 1 year,0.334,1.4
+installment rate,0.304,1.36
+credit history all paid back at this bank,0.303,1.35
+other installment plans stores,0.278,1.32
+existing credits,0.225,1.25
+purpose repairs,0.195,1.22
+credit history no credits / all paid back,0.184,1.2
+credit amount,0.166,1.18
+purpose business,0.15,1.16
+purpose furniture,0.127,1.13
+other debtors co-applicant,0.124,1.13
+dependants,0.043,1.04
+purpose domestic appliances,0.041,1.04
+job unskilled resident,-0.002,1.0
+residence since,-0.027,0.97
+employment since 7 years or more,-0.048,0.95
+job unemployed / unskilled non-resident,-0.059,0.94
+property savings agreement / life insurance,-0.079,0.92
+age,-0.082,0.92
+job management / highly qualified,-0.097,0.91
+purpose retraining,-0.196,0.82
+credit history delays in the past,-0.222,0.8
+telephone yes,-0.225,0.8
+property real estate,-0.237,0.79
+savings 100 to 500 DM,-0.341,0.71
+housing for free,-0.428,0.65
+purpose used car,-0.458,0.63
+savings 500 to 1000 DM,-0.512,0.6
+purpose other,-0.552,0.58
+employment since 4 to 7 years,-0.651,0.52
+other debtors guarantor,-0.66,0.52
+credit history critical / credits elsewhere,-0.955,0.38
+savings 1000 DM or more,-1.008,0.36
+savings unknown / none,-1.082,0.34

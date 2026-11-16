@@ -1,0 +1,5 @@
+policy,rejected_pct,bad_loans_approved,good_customers_rejected,cost_per_100_applicants
+Approve everyone,0.0,90,0,150.0
+"Model, cut-off 0.50",22.0,45,21,82.0
+"Model, cost-based cut-off 0.18",60.7,12,104,54.7
+Reject everyone,100.0,0,210,70.0
